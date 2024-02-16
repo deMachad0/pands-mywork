@@ -1,5 +1,11 @@
 # pands-mywork
 
+Week 01: 
+
+A program called helloworld.py
+
+The program displyes Hello World!
+
 Week 02: 
 
 A program called bank.py 
