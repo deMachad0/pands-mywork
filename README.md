@@ -4,7 +4,7 @@ Week 01:
 
 A program called helloworld.py
 
-The program displyes Hello World!
+The program displays Hello World!
 
 Week 02: 
 
