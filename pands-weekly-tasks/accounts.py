@@ -2,7 +2,7 @@
 # and outputs only the last 4 digits
 # Author: Andre Machado
 
-print("$ Python accounts.py ")
+print(" $ Python accounts.py ")
 
 # number will alocate the value of the user input
 number = (input("Please enter an 10 digit account number: "))

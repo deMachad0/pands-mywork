@@ -2,7 +2,7 @@
 # author name: Andre Machado
 # print in human readable format with euro sign and decimal
 
-print("$ python bank.py ")
+print(" $ python bank.py ")
 
 # amount1 and amount2 will allocate the value of the user input
 amount1 = int( input("Enter the amount1(in cent): "))
