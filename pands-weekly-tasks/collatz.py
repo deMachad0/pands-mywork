@@ -5,19 +5,22 @@
 # the end value is one
 # Author: Andre Machado
 
-print("Python collatz.py")
+print(" Python collatz.py")
 
 
 number = int(input("Please enter a positive integer: "))
 
+numbers = []
+
 # performs the while loop until the number becomes 1
 while number != 1:
+    numbers.append(number)
     # getting the even numbers 
     if number % 2 == 0:
        number = number // 2
-       # using end=" " to print with space between the numbers
-       print(number, end=" ")
     else:
     # getting the odd numbers
        number = number * 3 + 1  
-       print(number, end=" ")
+for value in numbers:
+   # using end=" " to print with space between the numbers
+   print(value, end=" ")
