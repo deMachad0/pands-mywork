@@ -26,3 +26,12 @@ A program called collatz.py
 A program that asks the user to input any positive integer and outputs the successive values of the following calculation.
 At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
 Have the program end if the current value is one.
+
+Week 05: 
+
+A program called weekday.py
+
+A program that outputs whether nor not today is a weekday. 
+
+https://pynative.com/python-get-the-day-of-week/ 
+this website contributes a lot in learning how to generate a date time and transform it in intenger
