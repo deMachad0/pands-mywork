@@ -34,4 +34,4 @@ A program called weekday.py
 A program that outputs whether nor not today is a weekday. 
 
 https://pynative.com/python-get-the-day-of-week/ 
-this website contributes a lot in how learning how to generate a date time and transform it in intenger
+this website contributes a lot in learning how to generate a date time and transform it in intenger
