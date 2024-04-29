@@ -53,3 +53,15 @@ helped me how to find a counter for the letters
 https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1204/handouts/py-file.html#:~:text=Unicode%20Encoding,files%20are%20encoded%20with%20it.
 Handling with Unicode UTF-8 
 And using a readline() to extract the title of the book
+
+Week 08: 
+
+Write a program called plottask.py that displays:
+A histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2, 
+and a plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.
+
+https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
+Usefull site to learn how to plot the histogram
+
+https://medium.com/@snehabajaj108/the-normal-distribution-with-python-2cb3bf57ee47
+Helped to use normal distribution
