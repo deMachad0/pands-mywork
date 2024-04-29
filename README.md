@@ -54,6 +54,8 @@ https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1204/handouts/py-file.ht
 Handling with Unicode UTF-8 
 And using a readline() to extract the title of the book
 
+Note: Just the first chapter of the book was copied into the file.
+
 Week 08: 
 
 Write a program called plottask.py that displays:
